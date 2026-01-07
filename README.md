@@ -28,4 +28,4 @@ As recommended in the pipeline analysis:
 2.  **Monitoring:** Setup drift detection to retrain the model if customer behavior changes significantly over time.
 
 ##  Visuals
-*(Upload a screenshot of your Confusion Matrix or ROC Curve here if available)*
+![confusion_matrix](./confusion_matrix.png)
